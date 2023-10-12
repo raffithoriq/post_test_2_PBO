@@ -40,13 +40,13 @@ Achmad Roffi Thoriq
 
     ![image](https://github.com/raffithoriq/post_test_2_PBO/assets/126893861/74248943-7ad3-4a3c-806c-c5d7be899900)
    	
-   	Pada program case 4 ini System.out.print("Enter the name of the Motorcycle to delete: "); program ini mencetak perintah kepada user untuk memasukkan nama sepeda motor yang akan dihapus dari ArrayList. String motorcycleToDelete = scanner.nextLine(); berfungsi untuk menggunakan objek scanner untuk membaca input user dan menyimpannya dalam variabel motorcycleToDelete, yang berisi nama sepeda motor yang akan dihapus. String motorcycleToDelete = scanner.nextLine(); Program ini menggunakan objek scanner untuk membaca input pengguna dan menyimpannya dalam variabel motorcycleToDelete, yang berisi nama sepeda motor yang akan dihapus. Iterator pada program ini untuk mengakses elemen dalam motorcycleList. Iterator adalah suatu mekanisme untuk melakukan perulangan melalui elemen dalam ArrayList. Pada  iterator.remove();  sepeda motor yang sesuai dengan nama yang diinputkan oleh user ditemukan, program akan menggunakan metode remove() dari iterator untuk menghapus sepeda motor tersebut dari motorcycleList.  Pada case 6 ini System.exit(0); berfungsi sebagai menu untuk keluar dari program.
+   	Pada program case 5 ini System.out.print("Enter the name of the Motorcycle to delete: "); program ini mencetak perintah kepada user untuk memasukkan nama sepeda motor yang akan dihapus dari ArrayList. String motorcycleToDelete = scanner.nextLine(); berfungsi untuk menggunakan objek scanner untuk membaca input user dan menyimpannya dalam variabel motorcycleToDelete, yang berisi nama sepeda motor yang akan dihapus. String motorcycleToDelete = scanner.nextLine(); Program ini menggunakan objek scanner untuk membaca input pengguna dan menyimpannya dalam variabel motorcycleToDelete, yang berisi nama sepeda motor yang akan dihapus. Iterator pada program ini untuk mengakses elemen dalam motorcycleList. Iterator adalah suatu mekanisme untuk melakukan perulangan melalui elemen dalam ArrayList. Pada  iterator.remove();  sepeda motor yang sesuai dengan nama yang diinputkan oleh user ditemukan, program akan menggunakan metode remove() dari iterator untuk menghapus sepeda motor tersebut dari motorcycleList.  Pada case 6 ini System.exit(0); berfungsi sebagai menu untuk keluar dari program.
 
     C.	Kelas Motor
    	
    	![image](https://github.com/raffithoriq/post_test_2_PBO/assets/126893861/6e054b2a-52f2-4c1d-8cfb-8359eacbeeba)
    	
-   	Pada Posttest2 ini dimulai dengan import yang digunakan untuk mengimpor perpustakaan dan kelas yang diperlukan dari luar.
+   	Pada Motorcycle ini dimulai dengan import yang digunakan untuk mengimpor perpustakaan dan kelas yang diperlukan dari luar.
 
     ![image](https://github.com/raffithoriq/post_test_2_PBO/assets/126893861/c7a64cf7-3c36-4eac-8d5f-36de0008b5e0)
    	
