@@ -1,7 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
- */
 package project.Motor;
 import java.text.DecimalFormat;
 
@@ -41,19 +37,5 @@ public final class Motor {
        public final void setHarga(double harga) {
         this.harga = harga;
     }
-       
-       
-       
-       
-
-//    final void setMerk(String merkBaru) {
-//        throw new UnsupportedOperationException("Not supported yet."); 
-//    }
-//
-//    final void setNama(String namaBaru) {
-//        throw new UnsupportedOperationException("Not supported yet."); 
-//    }
-    
-   
 }
 
