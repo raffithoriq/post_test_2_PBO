@@ -68,11 +68,14 @@ Achmad Roffi Thoriq
    
    ![image](https://github.com/raffithoriq/post_test_2_PBO/assets/126893861/dd396fd9-8b88-45f8-ba24-5b5114e0a18d)
    
-  	Pada tampian awal output pada gambar diatas menampilkan 6 daftar menu CRUD yaitu  Add Motorcycle, View Motorcycle List, Search for Motorcycle, Update Motorcycle, Delete Motorcycle, Exit. Dan terdapat kolom utung menginputkan pilihan user.
   	
-  	![image](https://github.com/raffithoriq/post_test_2_PBO/assets/126893861/147605f1-6404-49bb-98b5-9c3230a8a8ba)
+   Pada tampian awal output pada gambar diatas menampilkan 6 daftar menu CRUD yaitu  Add Motorcycle, View Motorcycle List, Search for Motorcycle, Update Motorcycle, Delete Motorcycle, Exit. Dan terdapat kolom utung menginputkan pilihan user.
+  	
+  	
+  ![image](https://github.com/raffithoriq/post_test_2_PBO/assets/126893861/167c2c9e-920a-4bf2-bb0b-58bed7d71752)
 
-  	Apabila menginputkan angka 1 atau Add Motorcycle maka akan muncul menu untuk memasukan nama motor, brand motor, dan harga motor, kemudian apabila sudah selesai dan berhasil menginputkan data dari motor baru tersebut maka akan muncul tampilan Motorcycle added successfully!. Dan apabila telah berhasil maka program akan memunculkan Kembali daftar menu.
+  	
+   Apabila menginputkan angka 1 atau Add Motorcycle maka akan muncul menu untuk memasukan nama motor, brand motor, dan harga motor, kemudian apabila sudah selesai dan berhasil menginputkan data dari motor baru tersebut maka akan muncul tampilan Motorcycle added successfully!. Dan apabila telah berhasil maka program akan memunculkan Kembali daftar menu.
 
    ![image](https://github.com/raffithoriq/post_test_2_PBO/assets/126893861/c4b32fe5-f8d8-4f06-8500-7684a4401477)
    
